@@ -2,11 +2,6 @@
 ### It-oLogy Upstate --Cyber Saturday 
 @ ECPI University 1001 Keys Drive, Greenville
 
-![]({{site.baseurl}}//itology.jpg)
-
-
-
-
 ##Overview
 This workshop will introduce HTML basics:
 
