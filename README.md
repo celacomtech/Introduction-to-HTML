@@ -24,3 +24,5 @@ The second portion will be a workshop in which you get your own web application 
 Note: If you will participate in the second segment, please bring a laptop!
 
 ##References and Resources
+![]({{site.baseurl}}//HTML%20Help%20Sheet%2002.jpg)
+[HTML Cheat Sheet](http://downloads.gosquared.com/help_sheets/08/HTML%20Help%20Sheet%2002.pdf "GoSquared")
