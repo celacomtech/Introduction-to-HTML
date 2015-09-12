@@ -1,34 +1,33 @@
 #HTML Skills Assessment
 To be completed by each participant at the conclusion of the activity
 
-Which IT job does HTML relate to?
+1.Which IT job does HTML relate to?
 Desktop Assistance
 Back-end Developer
 Web Page Designer
 Internet Security
 
-Which of the following header tags will have bigger text size than the others?
+2.Which of the following header tags will have bigger text size than the others?
 <h2>
 <h4>
 <h1>
 <h3>
 
-Which tag is used to make a horizontal line?
+3.Which tag is used to make a horizontal line?
 <hr/>
 <hl>
 <ho/>
 <hor/>
 
 
-What tags would you use to make a numbered list?
+4.What tags would you use to make a numbered list?
 <nl></nl>
 <ol></ol>
 <ul></ul>
 <lol></lol>
 
-What tags are needed to make a bulleted list?
-<bl></bl>
-<bul></bul>
-<ol></ol>
-<ul></ul>
-
+5.What tags are needed to make a bulleted list?
+--<bl></bl>
+--<bul></bul>
+--<ol></ol>
+--<ul></ul>
